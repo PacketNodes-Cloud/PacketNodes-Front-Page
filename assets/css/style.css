@@ -631,7 +631,6 @@
 
 }
 
-/* world map */
 @-webkit-keyframes pulse {
   0% {
     box-shadow: 0px 0px 0px 0px #5f12fc;
@@ -680,7 +679,6 @@
     display: block;
 }
 
-/* testimonials */
 .testimonials {
     padding-top: 80px;
     padding-bottom: 50px;
@@ -976,7 +974,6 @@ section#footer-bottom .copyright i {
 }
 
 
-/* Template responsive */
 
 @media screen and (max-width:1500px) {
     
